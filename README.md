@@ -14,3 +14,6 @@ The algorithm initially checks if we have any existing position or not i.e long 
 
 The return signals are empty, buy, sell, close_buy and close_sell.
 
+![Screenshot (7)](https://user-images.githubusercontent.com/120575887/208101061-2fe333e8-ccde-4f61-8b7f-43c29a8adc28.png)
+
+
